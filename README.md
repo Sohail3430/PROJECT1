@@ -1,4 +1,7 @@
 # PROJECT1
-PROJECT1
-# The Theme:
-In this project we will be creating a game where it will pop up random numbers on the screen and the user will have to decide whether the number is even or odd. Will also be creating an alternative mode that will guess a number your thinking of 1-10.
+# Module-5-Lab-A
+# Project Overview
+This project will pop up random numbers on the screen for the user and they wil:
+# Tutorial
+[Tutorial Link]https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm)
+# Screenshots
